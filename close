@@ -1,0 +1,14 @@
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: inactive (dead) since Fri 2021-10-08 20:22:31 -03; 37min ago
+       Docs: man:mysqld(8)
+             http://dev.mysql.com/doc/refman/en/using-systemd.html
+    Process: 8684 ExecStart=/usr/sbin/mysqld (code=exited, status=0/SUCCESS)
+   Main PID: 8684 (code=exited, status=0/SUCCESS)
+     Status: "Server shutdown complete"
+
+out 08 17:03:04 markus-notebook systemd[1]: Starting MySQL Community Server...
+out 08 17:03:04 markus-notebook systemd[1]: Started MySQL Community Server.
+out 08 20:22:30 markus-notebook systemd[1]: Stopping MySQL Community Server...
+out 08 20:22:31 markus-notebook systemd[1]: mysql.service: Succeeded.
+out 08 20:22:31 markus-notebook systemd[1]: Stopped MySQL Community Server.
