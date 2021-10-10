@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BEcCTYF5hsSez34Q4AuSp49km/Z1jfdpjqNgAMZ90dSGIrCjpwkW7HxUMr3uwi1DdSABYp/YYq3Zzy1Law+ssg==",
+  "dgSpecHash": "9ZwV8zVFJ8x19c4PwAm3/GLPBOH8erfs7+PStClPZrv4ZU8Al4ag4oMgo1pmzApr2LRCVN+NFxXD+VLM0U585w==",
   "success": true,
   "projectFilePath": "/home/markus/Desktop/Alura.Projetos/FilmesAPI/FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "/home/markus/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/markus/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/home/markus/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
     "/home/markus/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
     "/home/markus/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
@@ -81,7 +83,7 @@
     "/home/markus/.nuget/packages/system.private.datacontractserialization/4.3.0/system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "/home/markus/.nuget/packages/system.private.uri/4.3.2/system.private.uri.4.3.2.nupkg.sha512",
     "/home/markus/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
-    "/home/markus/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/home/markus/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/home/markus/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "/home/markus/.nuget/packages/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "/home/markus/.nuget/packages/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",
